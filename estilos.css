@@ -1,0 +1,10 @@
+
+img{
+    margin:20px;
+}
+
+#principal{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
